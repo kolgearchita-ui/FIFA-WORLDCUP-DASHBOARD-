@@ -34,11 +34,10 @@ The results dashboard includes the following visualizations:
 
 ## 📸 Dashboard Screenshots
 
-Home Page – Team Overview
+### Home Page
+![FIFA World Cup Main Page](https://raw.githubusercontent.com/kolgearchita-ui/FIFA-WORLDCUP-DASHBOARD-/main/FIFA%20WORLDCUP%20MAINPAGE.png)
 
-"FIFA World Cup 2026 Home Dashboard" (screenshots/home-dashboard.png)
-
-World Cup Result Dashboard
+## World Cup Result Dashboard
 
 "FIFA World Cup 2026 Result Dashboard" 
 ![FIFA World Cup Result Page](https://raw.githubusercontent.com/kolgearchita-ui/FIFA-WORLDCUP-DASHBOARD-/main/FIFA%20WORLDCUP%20RESULT%20PAGE.png)
@@ -56,6 +55,11 @@ World Cup Result Dashboard
 The main objective of this project is to transform FIFA World Cup 2026 data into meaningful visual insights using Power BI and demonstrate practical skills in data analytics and dashboard development.
 
 ## 👨‍💻 Author
+Archita Kolge
+
+B.Sc. IT Graduate | Data Analyst
+
+Skills: Power BI | SQL | Tableau | Python | Advanced Excel | Data Analysis
 
 Created as a Data Analytics project using Microsoft Power BI.
 
