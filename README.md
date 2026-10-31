@@ -1,4 +1,4 @@
-## ⚽ FIFA World Cup 2026 Dashboard – Power BI
+# ⚽ FIFA World Cup 2026 Dashboard – Power BI
 
 ## 📌 Project Overview
 
